@@ -36,7 +36,7 @@ namespace TestProject1.nUnitTests
         {
             // Assign, set the employee type to PartialLoad
             _employeeDiscount.EmployeeType = EmployeeType.PartialLoad;
-            // Assign, set the price to 1000
+            // Assign, set the price to 1000, which is the maximum boundary of the laptop search
             _employeeDiscount.Price = 1000;
             // Assert, check if the discount is 5 %, which is 950
             Assert.AreEqual(950, _employeeDiscount.CalculateDiscountedPrice());
@@ -48,7 +48,7 @@ namespace TestProject1.nUnitTests
         {
             // Assign, set the employee type to FullTime
             _employeeDiscount.EmployeeType = EmployeeType.FullTime;
-            // Assign, set the price to 1000
+            // Assign, set the price to 1000, which is the maximum boundary of the laptop search
             _employeeDiscount.Price = 1000;
             // Assert, check if the discount is 10 %, which is 900
             Assert.AreEqual(900, _employeeDiscount.CalculateDiscountedPrice());
@@ -60,7 +60,7 @@ namespace TestProject1.nUnitTests
         {
             // Assign, set the employee type to CompanyPurchasing
             _employeeDiscount.EmployeeType = EmployeeType.CompanyPurchasing;
-            // Assign, set the price to 1000
+            // Assign, set the price to 1000, which is the maximum boundary of the laptop search
             _employeeDiscount.Price = 1000;
             // Assert, check if the discount is 20%, which is 800
             Assert.AreEqual(800, _employeeDiscount.CalculateDiscountedPrice());
