@@ -1,0 +1,14 @@
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\bin\Debug\net7.0\LaptopDiscount.exe
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\bin\Debug\net7.0\LaptopDiscount.dll.config
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\bin\Debug\net7.0\LaptopDiscount.deps.json
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\bin\Debug\net7.0\LaptopDiscount.runtimeconfig.json
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\bin\Debug\net7.0\LaptopDiscount.dll
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\bin\Debug\net7.0\LaptopDiscount.pdb
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\LaptopDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\LaptopDiscount.sourcelink.json
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\LaptopDiscount.dll
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\refint\LaptopDiscount.dll
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\LaptopDiscount.pdb
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\LaptopDiscount.genruntimeconfig.cache
+C:\Users\Brent Chang\source\repos\LaptopDiscount_S4\LaptopDiscount\obj\Debug\net7.0\ref\LaptopDiscount.dll

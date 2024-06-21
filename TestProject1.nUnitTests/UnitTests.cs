@@ -14,10 +14,10 @@ namespace TestProject1.nUnitTests
         }
 
         // test for the discount of parttime employee type
-        // test case for the price of 301, the price just above the lowest boundary of the laptop search
-        [TestCase(301)]
         // test case for the price of 300, the price is the minimum boundary of the laptop search
         [TestCase(300)]
+        // test case for the price of 301, the price just above the lowest boundary of the laptop search
+        [TestCase(301)]
         // test case for the price of 999, the price just below the highest boundary of the laptop search
         [TestCase(999)]
         public void PartTimeEmployeeTest(int price)
