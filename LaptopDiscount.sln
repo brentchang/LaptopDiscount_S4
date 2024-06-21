@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopDiscount", "LaptopDiscount\LaptopDiscount.csproj", "{C1269E22-422F-4304-A75D-CBA68D997846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaptopDiscount", "LaptopDiscount\LaptopDiscount.csproj", "{C1269E22-422F-4304-A75D-CBA68D997846}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1.nUnitTests", "TestProject1.nUnitTests\TestProject1.nUnitTests.csproj", "{2EB2D882-DD45-4B00-B5FB-494AAA75A8AD}"
 EndProject

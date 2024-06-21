@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b1hVNgjS8wE=",
+  "dgSpecHash": "39n8fCfIcVM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Brent Chang\\source\\repos\\LaptopDiscount_S4\\TestProject1.nUnitTests\\TestProject1.nUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brent Chang\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Brent Chang\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
+    "C:\\Users\\Brent Chang\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Brent Chang\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.1\\microsoft.net.test.sdk.17.7.1.nupkg.sha512",
     "C:\\Users\\Brent Chang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Brent Chang\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.7.1\\microsoft.testplatform.objectmodel.17.7.1.nupkg.sha512",
@@ -16,6 +17,7 @@
     "C:\\Users\\Brent Chang\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Brent Chang\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\Brent Chang\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\Brent Chang\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
     "C:\\Users\\Brent Chang\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
